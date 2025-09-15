@@ -1,0 +1,7 @@
+Factura ID: 2
+Cliente: Maria Gomez (ID: C002)
+Productos:
+- Laptop (ID: 101, Precio: $1500.0)
+- Smartphone (ID: 102, Precio: $800.0)
+- Tablet (ID: 103, Precio: $400.0)
+Total: $2700.0
